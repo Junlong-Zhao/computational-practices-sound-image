@@ -20,7 +20,7 @@
 - `kick.wav`, `snare.wav`, `hat.wav`, `clap.wav`  (short one-shots; 44.1kHz/16-bit recommended)
 
 ## Demo video
-<PUT_LINK_HERE>
+[Week7-Algorithmic Drum Looper](./Week7-Algorithmic%20Drum%20Looper.mp4)
 
 ## Resources used 
 - Processing **SoundFile** docs — https://processing.org/reference/libraries/sound/SoundFile.html
