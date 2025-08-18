@@ -13,6 +13,10 @@
 - [Noise demo](./week4-noise.mp4)
 - [Masked filters demo](./week4-filters+masking.mp4)
 
+Google Drive:
+- [Noise demo](https://drive.google.com/file/d/11c193mEuzXtkT-FDn5NCwwnd-dEUnV-H/view?usp=drive_link)
+- [Masked filters demo](https://drive.google.com/file/d/1dG8Wq8siGciF8FD-CoMeaZaycwGh6Qpf/view?usp=drive_link)
+
 ## Resources used
 - Contrast formula (DF Studios): https://www.dfstudios.co.uk/articles/programming/image-programming-algorithms/image-processing-algorithms-part-5-contrast-adjustment/
 - Sepia matrix (GeeksForGeeks): https://www.geeksforgeeks.org/java/image-processing-in-java-colored-image-to-sepia-image-conversion/
