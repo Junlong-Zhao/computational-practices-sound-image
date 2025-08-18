@@ -22,7 +22,7 @@
 ## Demo video
 <PUT_LINK_HERE>
 
-## Resources used (as requested)
+## Resources used 
 - Processing **SoundFile** docs — https://processing.org/reference/libraries/sound/SoundFile.html
 - Processing **AudioSample** docs (low-latency RAM-loaded samples; optional alternative) — https://processing.org/reference/libraries/sound/AudioSample.html
 - Free samples — https://freesound.org/
