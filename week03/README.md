@@ -9,8 +9,8 @@
 - `week03_mondrian_final.pde` – final artwork (press **R** to recompose, **S** to save a PNG).
 
 ## Demo Videos
-- Transform practice: <PUT_LINK_HERE>
-- Mondrian final: <PUT_LINK_HERE>
+- [Transform practice](./week3-practice.mp4)
+- [Mondrian final](./week3-final.mp4)
 
 ## Resources used
 - Processing Tutorial on 2D Transformations: https://processing.org/tutorials/transform2d
