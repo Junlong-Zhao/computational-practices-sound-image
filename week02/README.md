@@ -9,10 +9,10 @@
   4. Half/Half
 
 ## Demo Videos
-- [Two Color demo](https://drive.google.com/xxxx)
-- [Stripe Makers demo](https://drive.google.com/xxxx)
-- [Checkerboard demo](https://drive.google.com/xxxx)
-- [Half/Half demo](https://drive.google.com/xxxx)
+- [Two Color demo](./week2-two-color.mp4)
+- [Stripe Makers demo](./week2-stripes.mp4)
+- [Checkerboard demo](./week2-checker.mp4)
+- [Half/Half demo](./week2-halfhalf.mp4)
 
 ## Files
 - `week02_twoColor.pde`
