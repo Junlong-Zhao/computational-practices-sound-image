@@ -18,6 +18,10 @@
 - [Dithering demo](./week5-Dithering.mp4)
 - [Convolution demo](./week5-Convolution.mp4)
 
+Google Drive:
+- [Dithering demo](https://drive.google.com/file/d/1fQmi811ZHI3R3NM5ZmJy34ZCyGcjeAFM/view?usp=drive_link)
+- [Convolution demo](https://drive.google.com/file/d/1XEZke8cYyrEsV0ZkUHjlaKznwDkH9zsJ/view?usp=drive_link)
+  
 ## Resources used (as requested)
 - Lucas Pope on Obra Dinn dithering: https://www.youtube.com/watch?v=ILolesm8kFY
 - TIGSource thread (Pope notes): https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742
