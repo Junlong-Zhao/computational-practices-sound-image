@@ -1,7 +1,7 @@
 # computational-practices-sound-image
 Computational Practices: Sound and Image Processing
 # Computational Practices: Sound & Image Processing — Weeks 1–9 (no Week 8)
-> **Environment:** Processing 4.x (Java mode).  
+> **Environment:** Processing 4.4.6 (Java mode).  
 > **Audio:** install **Sound** → `Sketch → Import Library… → Add Library… → search "Sound"`.  
 > **Run:** open each week’s `.pde` in Processing and press ▶︎.
 ## Repository layout
@@ -18,31 +18,48 @@ week09/ Vectors & motion: bouncing ball + mini game “Flower Glide”
 
 ## Week 1 — Pixels & Colour
 **What:** repo setup, Processing warm-ups, gradients/pixels basics.  
-**Files:** `week01/README.md`, `week01/example_gradient.pde` (or your W1 sketch).  
+**Files:** `week01/week01_pixels.pde` 
+
 **Notes:** if `saveFrame()` is used, exported images go to a folder like `week01/frames/`.
+
+**Demo Video**：[Week01 Demo Video](./week01/week01.mp4)
 
 ---
 
 ## Week 2 — Manipulating & Analysing Pixels
 **What:** four pixel filters/constraints:
+
 1. **Two-Color** (threshold)  
 2. **Stripe Makers** (every other row brighter)  
 3. **Checkerboard Creators** (modify alternating cells)  
 4. **Half/Half** (half inverted)
 
-**File:** `week02/week02_pixel_lab.pde`  
+**Files:** `week02/week02_twoColor.pde` ,`week02/week02_stripes.pde`,`week02/week02_checker.pde`,`week02/week02_halfhalf.pde`
 **Controls:** `1` Threshold, `2` Stripes, `3` Checkerboard, `4` Half-invert.  
 *(Optional)* `O` open image, `S` save output.
+
+**Demo Videos**
+
+- [Two Color demo](./week02/week2-two-color.mp4)
+- [Stripe Makers demo](./week02/week2-stripes.mp4)
+- [Checkerboard demo](./week02/week2-checker.mp4)
+- [Half/Half demo](./week02/week2-halfhalf.mp4)
 
 ---
 
 ## Week 3 — Vector Graphics
 **What:** vector primitives + `push/pop + translate/rotate/scale`; homage to modern artists (Kandinsky/Mondrian style).  
 **Files:**
+
 - `week03/week03_mondrian.pde` (grid, thick black strokes, primary colours)  
 - `week03/week03_shapes_transform.pde` (polygons, petals, star/arms)
 
 **Controls:** `S` save; `1/2/3` switch layouts (if provided).
+
+**Demo Videos**
+
+- [Transform practice](./week03/week3-practice.mp4)
+- [Mondrian final](./week03/week3-final.mp4)
 
 ---
 
@@ -57,6 +74,11 @@ week09/ Vectors & motion: bouncing ball + mini game “Flower Glide”
 - `week04/week04_masking.pde`
 
 **Typical controls:** `1` Threshold, `2` Brightness, `3` Contrast, `4` Invert, `5` Duotone; mouse moves mask centre; `S` save.
+
+**Demo Videos**
+
+- [Noise demo](./week04/week4-noise.mp4)
+- [Masked filters demo](./week04/week4-filters+masking.mp4)
 
 ---
 
@@ -73,6 +95,11 @@ week09/ Vectors & motion: bouncing ball + mini game “Flower Glide”
 - **Dither:** `1` Threshold, `2` Bayer 4×4, `3` Floyd–Steinberg; `L` reload, `S` save.  
 - **Convolution:** `1` Box, `2` Gaussian, `3` Sharpen, `4` Edge, `5` Emboss, `6` Sobel; `R` reset, `S` save.
 
+**Demo Videos**
+
+- [Dithering demo](./week05/week5-Dithering.mp4)
+- [Convolution demo](./week05/week5-Convolution.mp4)
+
 ---
 
 ## Week 6 — Digital Sound & Oscillation
@@ -84,15 +111,23 @@ week09/ Vectors & motion: bouncing ball + mini game “Flower Glide”
 **Controls:** `1/2/3` waveform, `A/Z` frequency, `[`/`]` volume or envelope, `S` save.  
 **Note:** install **Sound**; mind output volume.
 
+**Demo Videos**
+
+- [Sci-fi arrival sound](./week06/week6-Planet%20Landing%20sound.mp4)
+- [Sound-reactive visuals](./week06/week6-Sound-ReactiveVisualization.mp4)
+
 ---
 
 ## Week 7 — Algorithmic Music & Sampling
 **What:** at least **4 samples** (kick/snare/hat/clap); **16-step drum looper**; A/B pattern evolution, probability fills, accents/ghost notes; optional synth bass (SinOsc + `Env`).  
 **Files & data:**
+
 - `week07/week07_drum_looper.pde`
 - **Samples in `week07/data/`:** `kick.wav`, `snare.wav`, `hat.wav`, `clap.wav` (44.1k/16-bit recommended)
 
 **Controls:** `SPACE` start/stop, `↑/↓` BPM, `R` roll/fill, `O` toggle bass, `V` visualiser, `S` save.
+
+- [Week7-Algorithmic Drum Looper](./week07/Week7-Algorithmic%20Drum%20Looper.mp4)
 
 ---
 
@@ -111,30 +146,56 @@ Attended the Hackathon — **no separate weekly submission**.
 ### Hr3 — Mini Game: “Flower Glide”
 **File:** `week09/week09_vector_game.pde`  
 **Meets brief:**  
+
 - **≥1 class:** `Player`, `Flower`  
 - **≥2 forces:** gravity + drag (plus optional attractor/wind)  
 - **≥1 interaction:** keyboard thrust + mouse gust  
-**Goal:** collect 10 flowers; falling out of bounds = fail.  
-**Controls:** `←/→` thrust, `SPACE` short boost, mouse click gust, `E` attractor toggle, `R` reset, `S` save.
+  **Goal:** collect 10 flowers; falling out of bounds = fail.  
+  **Controls:** `←/→` thrust, `SPACE` short boost, mouse click gust, `E` attractor toggle, `R` reset, `S` save.
+
+**Demo Videos**
+
+- [bouncing ball](./week09/week%209-Bouncing%20Ball.mp4)
+- [Flower Glide](./week09/week%209-Mini%20Game%20Flower%20Glide.mp4)
 
 ---
 
-## Screenshots / Demos
-Add a `screenshot.png` or short GIF/video in each `weekXX/` for quick review (optional but recommended).
+# Week 10 — Particle Systems（Developed further）
 
----
+**What this sketch shows**
 
-## References (selection)
-- **Nature of Code** (Vectors / Forces / Particles)  
-- **The Coding Train** (Vectors & Forces series)  
-- Image filtering notes (brightness/contrast/sepia principles)  
-- **Processing Sound** reference; **freesound.org** for samples  
+- A reusable particle system built with **ArrayList** and **classes**.
+- Each particle carries at least **three PVectors**: `position`, `velocity`, `acceleration`.
+- **One user interaction**: mouse click produces a radial wind **gust** that pushes nearby particles; key `E` drops a new emitter at the mouse.
+- **One randomized force**: time-varying **turbulent wind** driven by Perlin noise (changes every frame).
+- Three aesthetics (press `1/2/3`): **petals / leaves / snow**.
 
----
+**Controls**
 
-## Final checklist before submission
-- [ ] Processing 4.x; **Sound** installed (Weeks 6–7)  
-- [ ] Week 7 samples are in `week07/data/` with matching filenames  
-- [ ] Every `.pde` runs; `S` saves a frame where implemented  
-- [ ] This README matches folder content; per-week comments live in code
+- `1` Petals (pink, light drag)  
+- `2` Leaves (orange/green, heavier drag)  
+- `3` Snow (white, additive glow)  
+- `E` Drop a new emitter at mouse  
+- `G` Toggle gravity  
+- `W` Toggle turbulent wind  
+- Mouse **click**: radial gust from mouse  
+- `R` Reset, `S` Save PNG
 
+**Developed further**	
+
+- **Multiple emitters** – press **E** to drop a new emitter at the mouse position.
+
+  **Force controls** –
+
+  - **G** to toggle gravity on/off.
+  - **W** to toggle turbulent wind on/off.
+  - **Mouse click** to create a gust of wind near the cursor.
+
+  **Three visual modes** – press **1** for petals, **2** for leaves, **3** for snow.
+
+  **System management** –
+
+  - **R** to reset the whole system.
+  - **S** to save a screenshot.
+
+**Demo Video：**- [Week10-Particle System](./week10/Week10-Particle%20System.mp4)
