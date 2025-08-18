@@ -39,6 +39,8 @@
 
 [Week10-Particle System](./Week10-Particle%20System.mp4)
 
+Google Drive: [Week10-Particle System](https://drive.google.com/file/d/1y5RIxiLCbWS1XE5dc4AHG7wW35vztVFk/view?usp=drive_link)
+
 **References used**
 
 - Shiffman, *Nature of Code* — particles chapter (concepts and API habits).  
