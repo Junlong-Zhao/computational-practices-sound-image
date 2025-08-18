@@ -273,7 +273,7 @@ Google Drive: [Week10-Particle System](https://drive.google.com/file/d/1y5RIxiLC
 
 # References & Licences
 ## Core docs & tutorials
-- [Processing Pixels Tutorial]: https://processing.org/tutorials/pixels
+- Processing Pixels Tutorial: https://processing.org/tutorials/pixels
 - Processing Tutorial on 2D Transformations: https://processing.org/tutorials/transform2d
 - Rotate / Push / Pop example: https://processing.org/examples/rotatepushpop.html
 - Contrast formula (DF Studios): https://www.dfstudios.co.uk/articles/programming/image-programming-algorithms/image-processing-algorithms-part-5-contrast-adjustment/
