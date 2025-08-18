@@ -57,6 +57,20 @@ Week 10/  Particle Systems (Developed further)
 - **Week 10** — Particle Systems (Developed further): [Week10-Particle System](https://drive.google.com/file/d/1y5RIxiLCbWS1XE5dc4AHG7wW35vztVFk/view?usp=drive_link)
 
 ---
+## Developed further (selected piece) — Week 10: Particle Systems
+
+**Beyond the basic brief**
+- Multiple emitters — press **E** to drop a new emitter **at the mouse position**.
+- Force controls — **G** toggle gravity on/off; **W** toggle **Perlin-noise** turbulent wind (time-varying) on/off; **mouse click** creates a gust near the cursor.
+- Three visual modes — **1** petals, **2** leaves, **3** snow.
+
+**Under the hood**
+- Clean PVector design (`position`, `velocity`, `acceleration`), lifespan fade, v² drag, emitter drift via noise.
+
+**System management**
+- **R** reset the whole system; **S** save a screenshot.
+
+---
 
 ## Week 1 — Pixels & Colour
 **What:** repo setup, Processing warm-ups, gradients/pixels basics.  
