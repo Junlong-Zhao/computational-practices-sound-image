@@ -292,3 +292,5 @@ Google Drive: [Week10-Particle System](https://drive.google.com/file/d/1y5RIxiLC
 - Nature of Code (vectors): https://natureofcode.com/vectors/
 - Processing `PVector` reference: https://processing.org/reference/PVector.html
 
+### Video demos
+- All demo videos are screen-captures of my own sketches.
