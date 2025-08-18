@@ -21,6 +21,41 @@ week07/ Algorithmic music with samples (drum looper)
 
 week09/ Vectors & motion: bouncing ball + mini game “Flower Glide”
 
+Week 10/  Particle Systems (Developed further)
+
+---
+
+## Demo videos (10–30s each)
+
+- Week 01 — Pixels & Colour:[Week01 Demo Video](https://drive.google.com/file/d/1pdMVE4aS6eaG0DH3wd53qp-OL5tthM6o/view?usp=drive_link)
+
+- Week 02 — Manipulating Pixels:
+[Two Color demo](https://drive.google.com/file/d/16WT5FlA_hYOAulYACj8VT3g2A6WuuabD/view?usp=drive_link)
+[Stripe Makers demo](https://drive.google.com/file/d/15alJL7q-T3u-FD4IplZb5HLDEXnqwy15/view?usp=drive_link)
+[Checkerboard demo](https://drive.google.com/file/d/1tKpHNVE9gvRu4eDJf3f6bIzikgwUxg6E/view?usp=drive_link)
+[Half/Half demo](https://drive.google.com/file/d/1CV7xASMA1c8Ef2WyWDWiUW7bBHG_KRes/view?usp=drive_link)
+  
+- Week 03 — Vector Graphics:
+[Transform practice](https://drive.google.com/file/d/1pDd43hJpbBhchmc5Vpo2pv4DTRKJMblE/view?usp=drive_link)
+[Mondrian final](https://drive.google.com/file/d/180-HiWwZJNqSunNxato3AwdYV_G7FGbU/view?usp=drive_link)
+- Week 04 — Noise, Filters & Masking:
+[Noise demo](https://drive.google.com/file/d/11c193mEuzXtkT-FDn5NCwwnd-dEUnV-H/view?usp=drive_link)
+[Masked filters demo](https://drive.google.com/file/d/1dG8Wq8siGciF8FD-CoMeaZaycwGh6Qpf/view?usp=drive_link)
+- Week 05 — Dithering & Convolution:
+  [Dithering demo](https://drive.google.com/file/d/1fQmi811ZHI3R3NM5ZmJy34ZCyGcjeAFM/view?usp=drive_link)
+  [Convolution demo](https://drive.google.com/file/d/1XEZke8cYyrEsV0ZkUHjlaKznwDkH9zsJ/view?usp=drive_link)
+  
+- Week 06 — Oscillators & Visualiser:
+[Sci-fi arrival sound](https://drive.google.com/file/d/1RxUtvn6JqNJvK8u5sfPKKNUfIG9FWtle/view?usp=drive_link)
+[Sound-reactive visuals](https://drive.google.com/file/d/1qJM5hK8K19HqeFczP3Kndu5zPCFkjZZj/view?usp=drive_link)
+- Week 07 — Algorithmic Music & Sampling (Drum Looper):
+  [Week7-Algorithmic Drum Looper](https://drive.google.com/file/d/1QIkJP71RcDDFu0LSO1PkZyHbZt2fkrg3/view?usp=drive_link)
+- Week 08 — Hackathon (no graded work)
+- Week 09 — Vectors & Motion (Mini game):
+[bouncing ball](https://drive.google.com/file/d/1TA9XYUTyzycrd-bF8HSZGUUV0vy34TSL/view?usp=drive_link)
+[Flower Glide](https://drive.google.com/file/d/15zFr9l1IoAbpEMPxf8LfJRY8abSSTv71/view?usp=drive_link)
+- **Week 10 — Particle Systems (Developed further): [Week10-Particle System](https://drive.google.com/file/d/1y5RIxiLCbWS1XE5dc4AHG7wW35vztVFk/view?usp=drive_link)
+
 ---
 
 ## Week 1 — Pixels & Colour
@@ -233,4 +268,25 @@ Google Drive:
 **Demo Video：**- [Week10-Particle System](./week10/Week10-Particle%20System.mp4)
 
 Google Drive: [Week10-Particle System](https://drive.google.com/file/d/1y5RIxiLCbWS1XE5dc4AHG7wW35vztVFk/view?usp=drive_link)
+
+# References & Licences
+## Core docs & tutorials
+- [Processing Pixels Tutorial](https://processing.org/tutorials/pixels)
+- Processing Tutorial on 2D Transformations: https://processing.org/tutorials/transform2d
+- Rotate / Push / Pop example: https://processing.org/examples/rotatepushpop.html
+- Contrast formula (DF Studios): https://www.dfstudios.co.uk/articles/programming/image-programming-algorithms/image-processing-algorithms-part-5-contrast-adjustment/
+- Sepia matrix (GeeksForGeeks): https://www.geeksforgeeks.org/java/image-processing-in-java-colored-image-to-sepia-image-conversion/
+- Perlin Noise explanation (Daniel Shiffman): https://www.youtube.com/watch?v=YcdldZ1E9gU
+- Lucas Pope on Obra Dinn dithering: https://www.youtube.com/watch?v=ILolesm8kFY
+- TIGSource thread (Pope notes): https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742
+- Surma — Ditherpunk: https://surma.dev/things/ditherpunk/
+- Tanner Helland — Dithering algorithms + source: https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html
+- Processing Sound library (API & classes): https://processing.org/reference/libraries/sound/index.html
+- Article on audio filters (concepts & use cases): https://www.edmprod.com/audio-filters/
+- Processing **SoundFile** docs — https://processing.org/reference/libraries/sound/SoundFile.html
+- Processing **AudioSample** docs (low-latency RAM-loaded samples; optional alternative) — https://processing.org/reference/libraries/sound/AudioSample.html
+- Free samples — https://freesound.org/
+- Essential hip-hop drum patterns (timing ideas) — https://midimighty.com/blogs/resources/hip-hop-drum-patterns-essential-hiphop
+- Nature of Code (vectors): https://natureofcode.com/vectors/
+- Processing `PVector` reference: https://processing.org/reference/PVector.html
 
