@@ -11,4 +11,4 @@
 - `notes.md` → Summary notes
 
 ## Demo Video
-[Watch Week 1 demo](https://drive.google.com/xxxx)
+[Watch Week 1 demo](./week01.mp4)
