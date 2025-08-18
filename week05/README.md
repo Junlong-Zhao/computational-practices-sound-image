@@ -15,8 +15,8 @@
   - Keys: `1` Box blur, `2` Gaussian, `3` Sharpen, `4` Edge, `5` Emboss, `6` Sobel, `R` reset, `S` save.
 
 ## Demo Videos
-- Dithering demo: <PUT_LINK_HERE>
-- Convolution demo: <PUT_LINK_HERE>
+- [Dithering demo](./week5-Dithering.mp4)
+- [Convolution demo](./week5-Convolution.mp4)
 
 ## Resources used (as requested)
 - Lucas Pope on Obra Dinn dithering: https://www.youtube.com/watch?v=ILolesm8kFY
