@@ -287,10 +287,11 @@ Google Drive: [Week10-Particle System](https://drive.google.com/file/d/1y5RIxiLC
 - Article on audio filters (concepts & use cases): https://www.edmprod.com/audio-filters/
 - Processing **SoundFile** docs — https://processing.org/reference/libraries/sound/SoundFile.html
 - Processing **AudioSample** docs (low-latency RAM-loaded samples; optional alternative) — https://processing.org/reference/libraries/sound/AudioSample.html
-- Free samples — https://freesound.org/
 - Essential hip-hop drum patterns (timing ideas) — https://midimighty.com/blogs/resources/hip-hop-drum-patterns-essential-hiphop
 - Nature of Code (vectors): https://natureofcode.com/vectors/
 - Processing `PVector` reference: https://processing.org/reference/PVector.html
-
+### Media (Week 07)
+- Drum one-shots placed in `week07/data/` (kick / snare / hat / clap).  
+  Source: https://freesound.org/ 
 ### Video demos
 - All demo videos are screen-captures of my own sketches.
