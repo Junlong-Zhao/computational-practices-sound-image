@@ -24,9 +24,16 @@
 - `week09_bouncing_ball.pde`
 - `week09_vector_game.pde`
 
+## Demo Videos
+
+- [bouncing ball](./week%209-Bouncing%20Ball.mp4)
+- [Flower Glide](./week%209-Mini%20Game%20Flower%20Glide.mp4)
+
 ## Resources used (given in the brief)
+
 - Nature of Code (vectors): https://natureofcode.com/vectors/
 - The Coding Train (vectors playlist)
 - Processing `PVector` reference: https://processing.org/reference/PVector.html
 - `mouseClicked()`: https://processing.org/reference/mouseClicked_.html
 - `keyPressed()`: https://processing.org/reference/keyPressed_.html
+
