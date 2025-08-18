@@ -8,6 +8,7 @@
 - Three aesthetics (press `1/2/3`): **petals / leaves / snow**.
 
 **Controls**
+
 - `1` Petals (pink, light drag)  
 - `2` Leaves (orange/green, heavier drag)  
 - `3` Snow (white, additive glow)  
@@ -17,7 +18,29 @@
 - Mouse **click**: radial gust from mouse  
 - `R` Reset, `S` Save PNG
 
+**Developed further**	
+
+- **Multiple emitters** – press **E** to drop a new emitter at the mouse position.
+
+  **Force controls** –
+
+  - **G** to toggle gravity on/off.
+  - **W** to toggle turbulent wind on/off.
+  - **Mouse click** to create a gust of wind near the cursor.
+
+  **Three visual modes** – press **1** for petals, **2** for leaves, **3** for snow.
+
+  **System management** –
+
+  - **R** to reset the whole system.
+  - **S** to save a screenshot.
+
+## Demo video
+
+[Week10-Particle System](./Week10-Particle%20System.mp4)
+
 **References used**
+
 - Shiffman, *Nature of Code* — particles chapter (concepts and API habits).  
 - Processing Reference: `PVector`, `mouseClicked()`, `keyPressed()`.  
 - Reeves, W. T. *Particle Systems — A Technique for Modeling a Class of Fuzzy Objects* (historical background). :contentReference[oaicite:1]{index=1}
