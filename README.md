@@ -23,7 +23,7 @@ week09/ Vectors & motion: bouncing ball + mini game “Flower Glide”
 **Notes:** if `saveFrame()` is used, exported images go to a folder like `week01/frames/`.
 
 **Demo Video**：[Week01 Demo Video](./week01/week01.mp4)
-
+Google Drive:https://drive.google.com/file/d/1pdMVE4aS6eaG0DH3wd53qp-OL5tthM6o/view?usp=drive_link
 ---
 
 ## Week 2 — Manipulating & Analysing Pixels
@@ -44,7 +44,11 @@ week09/ Vectors & motion: bouncing ball + mini game “Flower Glide”
 - [Stripe Makers demo](./week02/week2-stripes.mp4)
 - [Checkerboard demo](./week02/week2-checker.mp4)
 - [Half/Half demo](./week02/week2-halfhalf.mp4)
-
+Google Drive:
+- [Two Color demo]([./week02/week2-two-color.mp4](https://drive.google.com/file/d/16WT5FlA_hYOAulYACj8VT3g2A6WuuabD/view?usp=drive_link)
+- [Stripe Makers demo](./week02/week2-stripes.mp4)
+- [Checkerboard demo](./week02/week2-checker.mp4)
+- [Half/Half demo](./week02/week2-halfhalf.mp4)
 ---
 
 ## Week 3 — Vector Graphics
