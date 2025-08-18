@@ -13,6 +13,10 @@
 - [Sci-fi arrival sound](./week6-Planet%20Landing%20sound.mp4)
 - [Sound-reactive visuals](./week6-Sound-ReactiveVisualization.mp4)
 
+Google Drive:
+- [Sci-fi arrival sound](https://drive.google.com/file/d/1RxUtvn6JqNJvK8u5sfPKKNUfIG9FWtle/view?usp=drive_link)
+- [Sound-reactive visuals](https://drive.google.com/file/d/1qJM5hK8K19HqeFczP3Kndu5zPCFkjZZj/view?usp=drive_link)
+
 ## Resources used
 - Processing Sound library (API & classes): https://processing.org/reference/libraries/sound/index.html
 - Article on audio filters (concepts & use cases): https://www.edmprod.com/audio-filters/
