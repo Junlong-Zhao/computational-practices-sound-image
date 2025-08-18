@@ -249,6 +249,7 @@ Google Drive:
 - `R` Reset, `S` Save PNG
 
 **Developed further**	
+*Why selected:* it expands the base particle exercise into a reusable system with multiple emitters, a noise-driven wind field, rich user controls, and three distinct aesthetics — evidencing enquiry, iteration, and polish.
 
 - **Multiple emitters** – press **E** to drop a new emitter at the mouse position.
 
