@@ -67,6 +67,9 @@ Google Drive:
 - [Transform practice](./week03/week3-practice.mp4)
 - [Mondrian final](./week03/week3-final.mp4)
 
+Google Drive:
+- [Transform practice](https://drive.google.com/file/d/1pDd43hJpbBhchmc5Vpo2pv4DTRKJMblE/view?usp=drive_link)
+- [Mondrian final](https://drive.google.com/file/d/180-HiWwZJNqSunNxato3AwdYV_G7FGbU/view?usp=drive_link)
 ---
 
 ## Week 4 — Filtering Images (+ Mask)
@@ -86,6 +89,9 @@ Google Drive:
 - [Noise demo](./week04/week4-noise.mp4)
 - [Masked filters demo](./week04/week4-filters+masking.mp4)
 
+Google Drive:
+- [Noise demo](https://drive.google.com/file/d/11c193mEuzXtkT-FDn5NCwwnd-dEUnV-H/view?usp=drive_link)
+- [Masked filters demo](https://drive.google.com/file/d/1dG8Wq8siGciF8FD-CoMeaZaycwGh6Qpf/view?usp=drive_link)
 ---
 
 ## Week 5 — Dithering & Convolution
@@ -106,6 +112,9 @@ Google Drive:
 - [Dithering demo](./week05/week5-Dithering.mp4)
 - [Convolution demo](./week05/week5-Convolution.mp4)
 
+Google Drive:
+- [Dithering demo](https://drive.google.com/file/d/1fQmi811ZHI3R3NM5ZmJy34ZCyGcjeAFM/view?usp=drive_link)
+- [Convolution demo](https://drive.google.com/file/d/1XEZke8cYyrEsV0ZkUHjlaKznwDkH9zsJ/view?usp=drive_link)
 ---
 
 ## Week 6 — Digital Sound & Oscillation
@@ -122,6 +131,10 @@ Google Drive:
 - [Sci-fi arrival sound](./week06/week6-Planet%20Landing%20sound.mp4)
 - [Sound-reactive visuals](./week06/week6-Sound-ReactiveVisualization.mp4)
 
+Google Drive:
+- [Sci-fi arrival sound](https://drive.google.com/file/d/1RxUtvn6JqNJvK8u5sfPKKNUfIG9FWtle/view?usp=drive_link)
+- [Sound-reactive visuals](https://drive.google.com/file/d/1qJM5hK8K19HqeFczP3Kndu5zPCFkjZZj/view?usp=drive_link)
+
 ---
 
 ## Week 7 — Algorithmic Music & Sampling
@@ -135,6 +148,8 @@ Google Drive:
 
 - [Week7-Algorithmic Drum Looper](./week07/Week7-Algorithmic%20Drum%20Looper.mp4)
 
+Google Drive:
+- [Week7-Algorithmic Drum Looper](https://drive.google.com/file/d/1QIkJP71RcDDFu0LSO1PkZyHbZt2fkrg3/view?usp=drive_link)
 ---
 
 ## Week 8 — Hackathon
@@ -162,8 +177,11 @@ Attended the Hackathon — **no separate weekly submission**.
 **Demo Videos**
 
 - [bouncing ball](./week09/week%209-Bouncing%20Ball.mp4)
-- [Flower Glide](./week09/week%209-Mini%20Game%20Flower%20Glide.mp4)
+- [Flower Glide](https://drive.google.com/file/d/15zFr9l1IoAbpEMPxf8LfJRY8abSSTv71/view?usp=drive_link)
 
+Google Drive:
+- [bouncing ball](https://drive.google.com/file/d/1TA9XYUTyzycrd-bF8HSZGUUV0vy34TSL/view?usp=drive_link)
+- [Flower Glide](./week09/week%209-Mini%20Game%20Flower%20Glide.mp4)
 ---
 
 # Week 10 — Particle Systems（Developed further）
@@ -205,3 +223,6 @@ Attended the Hackathon — **no separate weekly submission**.
   - **S** to save a screenshot.
 
 **Demo Video：**- [Week10-Particle System](./week10/Week10-Particle%20System.mp4)
+
+Google Drive: [Week10-Particle System](https://drive.google.com/file/d/1y5RIxiLCbWS1XE5dc4AHG7wW35vztVFk/view?usp=drive_link)
+
