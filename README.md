@@ -54,7 +54,7 @@ Week 10/  Particle Systems (Developed further)
 - Week 09 — Vectors & Motion (Mini game):
 [bouncing ball](https://drive.google.com/file/d/1TA9XYUTyzycrd-bF8HSZGUUV0vy34TSL/view?usp=drive_link)
 [Flower Glide](https://drive.google.com/file/d/15zFr9l1IoAbpEMPxf8LfJRY8abSSTv71/view?usp=drive_link)
-- **Week 10 — Particle Systems (Developed further): [Week10-Particle System](https://drive.google.com/file/d/1y5RIxiLCbWS1XE5dc4AHG7wW35vztVFk/view?usp=drive_link)
+- **Week 10** — Particle Systems (Developed further): [Week10-Particle System](https://drive.google.com/file/d/1y5RIxiLCbWS1XE5dc4AHG7wW35vztVFk/view?usp=drive_link)
 
 ---
 
