@@ -22,6 +22,9 @@
 ## Demo video
 [Week7-Algorithmic Drum Looper](./Week7-Algorithmic%20Drum%20Looper.mp4)
 
+Google Drive:
+- [Week7-Algorithmic Drum Looper](https://drive.google.com/file/d/1QIkJP71RcDDFu0LSO1PkZyHbZt2fkrg3/view?usp=drive_link)
+
 ## Resources used 
 - Processing **SoundFile** docs — https://processing.org/reference/libraries/sound/SoundFile.html
 - Processing **AudioSample** docs (low-latency RAM-loaded samples; optional alternative) — https://processing.org/reference/libraries/sound/AudioSample.html
