@@ -6,12 +6,19 @@ Computational Practices: Sound and Image Processing
 > **Run:** open each week’s `.pde` in Processing and press ▶︎.
 ## Repository layout
 week01/ Getting started, pixels & colour
+
 week02/ Pixel manipulation lab (threshold/stripes/checkerboard/half-invert)
+
 week03/ Vector graphics (artist study + 2D transforms)
+
 week04/ Noise + image filters + mouse mask
+
 week05/ Dithering (Threshold / Bayer 4×4 / Floyd–Steinberg) + Convolution kernels
+
 week06/ Oscillators & sound visualisation (Sound library)
+
 week07/ Algorithmic music with samples (drum looper)
+
 week09/ Vectors & motion: bouncing ball + mini game “Flower Glide”
 
 ---
@@ -24,7 +31,8 @@ week09/ Vectors & motion: bouncing ball + mini game “Flower Glide”
 
 **Demo Video**：[Week01 Demo Video](./week01/week01.mp4)
 
-Google Drive: [Week01 Demo Video](https://drive.google.com/file/d/1pdMVE4aS6eaG0DH3wd53qp-OL5tthM6o/view?usp=drive_link)
+**Google Drive**：[Week01 Demo Video](https://drive.google.com/file/d/1pdMVE4aS6eaG0DH3wd53qp-OL5tthM6o/view?usp=drive_link)
+
 ---
 
 ## Week 2 — Manipulating & Analysing Pixels
