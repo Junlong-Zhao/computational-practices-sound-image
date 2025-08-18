@@ -10,8 +10,8 @@
 - `week06_sound_visuals.pde` — press **1/2/3** to switch the analysed oscillator (Sin/Saw/Tri), `A` toggles auto-sweep, `S` saves a frame.
 
 ## Demo Videos
-- Sci-fi arrival sound: <PUT_LINK_HERE>
-- Sound-reactive visuals: <PUT_LINK_HERE>
+- [Sci-fi arrival sound](./week6-Planet%20Landing%20sound.mp4)
+- [Sound-reactive visuals](./week6-Sound-ReactiveVisualization.mp4)
 
 ## Resources used
 - Processing Sound library (API & classes): https://processing.org/reference/libraries/sound/index.html
