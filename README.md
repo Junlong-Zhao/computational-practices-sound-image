@@ -24,7 +24,7 @@ week09/ Vectors & motion: bouncing ball + mini game “Flower Glide”
 
 **Demo Video**：[Week01 Demo Video](./week01/week01.mp4)
 
-Google Drive: [Week01 Demo Video]([./week01/week01.mp4](https://drive.google.com/file/d/1pdMVE4aS6eaG0DH3wd53qp-OL5tthM6o/view?usp=drive_link))
+Google Drive: [Week01 Demo Video](https://drive.google.com/file/d/1pdMVE4aS6eaG0DH3wd53qp-OL5tthM6o/view?usp=drive_link)
 ---
 
 ## Week 2 — Manipulating & Analysing Pixels
