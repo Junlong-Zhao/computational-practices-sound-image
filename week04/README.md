@@ -10,8 +10,8 @@
 - `week04_masked_filters.pde` — Filters + masking (number keys choose **base** filter, letter keys choose **inner** filter; `UP/DOWN` change mask radius; `R` reset; `S` save).
 
 ## Demo Videos
-- Noise demo: <PUT_LINK_HERE>
-- Masked filters demo: <PUT_LINK_HERE>
+- [Noise demo](./week4-noise.mp4)
+- [Masked filters demo](./week4-filters+masking.mp4)
 
 ## Resources used
 - Contrast formula (DF Studios): https://www.dfstudios.co.uk/articles/programming/image-programming-algorithms/image-processing-algorithms-part-5-contrast-adjustment/
